@@ -14,7 +14,7 @@
 
 
 ## About Me
-I am a Full-stack Engineer that is always looking to grow my skills. I currently work with Talent Path and love it! They provide so many great opertunities to work for a array of companies as well as exposing me to so many new technologies. 
+I am a dedicated full stack engineer who loves to learn. I am proficient in both front end and backend frameworks as well as working with databases
 
 ## Projects
 
