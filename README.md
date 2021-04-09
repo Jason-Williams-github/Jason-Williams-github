@@ -12,7 +12,6 @@
 * Kennesaw State University ( 2016 - 2020 )
   * Bachelors of Science in Computer Science
 
-test
 
 ## About Me
 I am a Full-stack Engineer that is always looking to grow my skills. I currently work with Talent Path and I love all of the opertunities that they provide for me. 
