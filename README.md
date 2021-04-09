@@ -18,16 +18,6 @@ I am a dedicated full stack engineer who loves to learn. I am proficient in both
 
 ## Projects
 
-#### Firearm Museum
-* I created a database of firearms that would allow interested users to easily learn about any firearm that was present in the database. I had all of the Firearm objects broken down into smaller components that allowed me to give more information about each component in more detail as well as add new firearms to the database in a modular way.
-  * Typescript
-  * Angular/HTML/CSS
-  * Postgres/JDBC
-  * Springboot
-  * Maven
-
-![photo of firearm database](https://i.imgur.com/15HlJcm.png)
-
 ### Find My Paradise
 * As a team we created a deployed a mock AirBnB. Everyone was assigned components for the project and were tasked with making the front and backend of these components. I was in charge of the host component which gathered information from an associated listing object and populated the page with the correct information.
   * JavaScript
@@ -37,6 +27,16 @@ I am a dedicated full stack engineer who loves to learn. I am proficient in both
   * AWS
 
 ![photo of mock AirBnB](https://i.imgur.com/RnT0E1X.png)
+
+#### Firearm Museum
+* I created a database of firearms that would allow interested users to easily learn about any firearm that was present in the database. I had all of the Firearm objects broken down into smaller components that allowed me to give more information about each component in more detail as well as add new firearms to the database in a modular way.
+  * Typescript
+  * Angular/HTML/CSS
+  * Postgres/JDBC
+  * Springboot
+  * Maven
+
+![photo of firearm database](https://i.imgur.com/15HlJcm.png)
 
 ## Experience
 
