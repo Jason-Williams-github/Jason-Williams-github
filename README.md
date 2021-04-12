@@ -36,7 +36,7 @@ I am a dedicated full stack engineer who loves to learn. I am proficient in both
   * Springboot
   * Maven
 
-![photo of firearm database](https://i.imgur.com/15HlJcm.png)
+![photo of firearm database](/assets/firearmdatabase.gif)
 
 ## Experience
 
