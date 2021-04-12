@@ -26,7 +26,7 @@ I am a dedicated full stack engineer who loves to learn. I am proficient in both
   * JPA/Hibernate
   * AWS
 
-![photo of mock AirBnB](https://i.imgur.com/TEZhHj6.mp4)
+![photo of mock AirBnB](/assets/FMP.gif)
 
 #### Firearm Museum
 * I created a database of firearms that would allow interested users to easily learn about any firearm that was present in the database. I had all of the Firearm objects broken down into smaller components that allowed me to give more information about each component in more detail as well as add new firearms to the database in a modular way.
