@@ -14,7 +14,7 @@
 
 
 ## About Me
-I am a dedicated full stack engineer who loves to learn. I am proficient in both front end and backend frameworks as well as working with databases
+I am a dedicated full stack engineer who loves to learn. I am proficient in both front end and backend frameworks as well as working with databases.I love hik
 
 ## Projects
 
