@@ -18,6 +18,16 @@ I am a dedicated full stack engineer who loves to learn. I am proficient in both
 
 ## Projects
 
+### Nile
+* Our team developed a mock Amazon that was fully functional and deployed. Everyone was assigned different components and ensuring that they all functioned properly. I was in charge of the review component. This component would show all reviews for their associated product, as well as the ability to create new reviews. Users were also able to rate any features that the product had.
+  * JavaScript
+  * React/HTML/CSS
+  * PostgreSQL
+  * JPA/Hibernate
+  * AWS
+
+![photo of mock Amazon](/assets/NileReviews.gif)
+
 ### Find My Paradise
 * As a team we created a deployed a mock AirBnB. Everyone was assigned components for the project and were tasked with making the front and backend of these components. I was in charge of the host component which gathered information from an associated listing object and populated the page with the correct information.
   * JavaScript
