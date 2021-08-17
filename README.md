@@ -46,6 +46,12 @@ I am a dedicated full stack engineer who loves to learn. I am proficient in both
   * Springboot
   * Maven
 
+### Citi Bike vs. Divvy Bike dataset
+* I worked with Citi Bike's and Divvy's publicly available dataset to compare and contrast the two. I focused on demographics such as age and gender to see which of the two companies would be a better fit in the downtown Atlanta area. To help with my points I used some of Python's available data analytical tools such as Pandas to view and clean the data and Altair for visualization.
+  * Python 3
+  * Pandas
+  * Altair
+
 ![photo of firearm database](/assets/firearmshowcase.gif)
 
 ## Experience
