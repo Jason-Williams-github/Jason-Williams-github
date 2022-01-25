@@ -3,7 +3,7 @@
 ### [Education](#education) [About Me](#about-me) [Projects](#projects) [Experience](#experience)
 
 ## Contact Information
-* Email : jwilliams@TalentPath.com
+* Email : hylton.williams@gmail.com
 * Phone : 706-506-3471
 * [LinkedIn](https://www.linkedin.com/in/jason-williams-0a5895203/)
 * [Github](https://github.com/Jason-Williams-github)
@@ -14,7 +14,7 @@
 
 
 ## About Me
-I am a dedicated full stack engineer who loves to learn. I am proficient in both front end and backend frameworks as well as working with databases.I love hik
+I am a dedicated full stack engineer who loves to learn. I am proficient in both front end and backend frameworks as well as working with databases.
 
 ## Projects
 
@@ -59,7 +59,7 @@ I am a dedicated full stack engineer who loves to learn. I am proficient in both
 
 ## Experience
 
-#### Talent Path (Full-Stack Engineer. December 2020 - present )
+#### Talent Path (Full-Stack Engineer. December 2020 - December 2021 )
 
 * Full stack engineer at Talent Path where we would be assigned to do contracting work for external companies. While not off on an assignment we would be constantly learning new skills in different languages or architecture as well as upskilling our already existing skills.
 * Worked on solo projects as well as team based ones using Zoom and Git as the main forms of communication and cooperation.
